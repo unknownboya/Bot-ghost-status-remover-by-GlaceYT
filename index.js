@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Official dc : https://discord.com/invite/gf2TVcAAdq"];
 
 
 let currentIndex = 0;
