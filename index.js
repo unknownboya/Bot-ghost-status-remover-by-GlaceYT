@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Official dc : https://discord.com/invite/gf2TVcAAdq"];
+const statusMessages = ["Official CT clan bot"];
 
 
 let currentIndex = 0;
